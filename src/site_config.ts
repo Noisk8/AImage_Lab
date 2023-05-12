@@ -1,8 +1,8 @@
 // This file contains the site configuration for the theme.
 
 // Metadata, SEO, and Social
-export const SITE_TITLE = "Manual Theme"
-export const SITE_DESCRIPTION = "A documentation template for Astro"
+export const SITE_TITLE = "Lab AImage Vartex"
+export const SITE_DESCRIPTION = "Laboratorio de Inteligenci artificial aplicada a imágen"
 export const SITE_URL = "https://manual.otterlord.dev"
 export const SITE_DEFAULT_OG_IMAGE = "/assets/og-image.png"
 
