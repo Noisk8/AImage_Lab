@@ -10,14 +10,14 @@ export const SITE_DEFAULT_OG_IMAGE = "/assets/og-image.png"
 // Define the left sidebar items here.
 // The path should match the folder name in src/content/docs/
 export const SIDEBAR_ITEMS = {
-  "Get Started": [
+  "LAB AImage": [
     "/docs/get-started/introduction",
     "/docs/get-started/installation",
   ],
-  "Tutorials": [
-    "/docs/tutorials/build-x",
+  "Sesiones": [
+    "/docs/labai/sesion1",
+    "/docs/labai/sesion2",
+    "/docs/labai/sesion3",
   ],
-  "Guides": [
-    "/docs/guides/migrate-from-z",
-  ]
+ 
 }
