@@ -8,10 +8,6 @@ Colab
 
 Hugging face
 
-Kaggle
-
-Rplicate
-
 ## Herramientas de generación
 
 StableDiffusion
